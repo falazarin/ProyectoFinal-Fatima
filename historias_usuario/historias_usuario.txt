@@ -1,0 +1,59 @@
+HU01
+Como usuario
+Quiero registrarme en Pinterest Lite
+Para poder crear una cuenta y guardar pines.
+
+Criterios de aceptación:
+- El usuario debe ingresar email válido
+- El password debe tener mínimo 6 caracteres
+- Si falta un campo se muestra mensaje de error
+
+
+HU02
+Como usuario
+Quiero iniciar sesión
+Para acceder a mis tableros y pines guardados.
+
+Criterios de aceptación:
+- Login con email y contraseña válidos
+- Mensaje de error si las credenciales son incorrectas
+
+
+HU03
+Como usuario
+Quiero buscar pines
+Para encontrar ideas e inspiración.
+
+Criterios de aceptación:
+- La búsqueda devuelve resultados relevantes
+- Si no hay resultados se muestra mensaje
+
+
+HU04
+Como usuario
+Quiero guardar un pin
+Para poder verlo más tarde.
+
+Criterios de aceptación:
+- El pin se guarda en un tablero seleccionado
+- Se muestra confirmación al guardar
+
+
+HU05
+Como usuario
+Quiero crear un tablero
+Para organizar mis pines por temas.
+
+Criterios de aceptación:
+- El usuario puede asignar nombre al tablero
+- El tablero aparece en su perfil
+
+
+HU06
+Como usuario
+Quiero cerrar sesión
+Para proteger mi cuenta.
+
+Criterios de aceptación:
+- El usuario vuelve a la pantalla de login
+- La sesión se elimina correctamente
