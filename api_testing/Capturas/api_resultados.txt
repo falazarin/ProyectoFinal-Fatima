@@ -1,0 +1,18 @@
+Resultados de pruebas de API
+
+API utilizada: JSONPlaceholder
+Herramienta: Postman
+
+Se ejecutaron 10 casos de prueba sobre endpoints de la API.
+
+Resultados:
+- Casos exitosos (200/201): 8
+- Casos negativos controlados: 2
+
+Hallazgos:
+La API respondió correctamente a las solicitudes GET, POST y PUT.
+Los endpoints inexistentes devolvieron códigos de error esperados (404).
+La estructura JSON fue validada correctamente.
+
+Conclusión:
+La API responde de forma estable y consistente ante diferentes tipos de solicitudes.
