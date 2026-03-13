@@ -1,0 +1,18 @@
+Informe Final de Testing
+
+Proyecto: Pinterest Lite (simulación)
+QA: Fátima Paz
+
+Alcance del testing:
+Se realizaron pruebas funcionales sobre diferentes flujos de la aplicación simulada, incluyendo casos positivos y negativos.
+
+Resultados:
+Se diseñaron y ejecutaron más de 30 casos de prueba funcionales.
+Se documentaron defectos simulados con evidencia.
+Se realizaron pruebas de API utilizando Postman.
+
+Hallazgos:
+Las pruebas permitieron validar el comportamiento esperado del sistema en distintos escenarios.
+
+Conclusión:
+El sistema presenta un comportamiento estable en las funcionalidades probadas. Se recomienda continuar con pruebas adicionales en futuras iteraciones.
